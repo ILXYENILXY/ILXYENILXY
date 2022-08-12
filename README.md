@@ -1,4 +1,4 @@
 ### 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=_hexcode=#7373D7&height=00&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:eaf7fe,100:7295&height=200&section=header&text=ILXYENILXY&fontSize=70&fontColor=FFC)
