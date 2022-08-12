@@ -4,7 +4,9 @@
 
 ---
 Techs that I've used at least once
-🔧 Tech Stack
+
+  
+# 🔧 Tech Stack
 
   ![python](https://img.shields.io/badge/Python-005A9C.svg?&style=for-the-badge&logo=Python&logoColor=fff)![C](https://img.shields.io/badge/C-000080.svg?&style=for-the-badge&logo=Python&logoColor=fff)
   
