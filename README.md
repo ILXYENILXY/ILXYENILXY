@@ -23,5 +23,5 @@ Techs that I've used at least once
 
 
 <div align=center>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILXYENILXY&bg_color=150,#5e7e9b,#ffe0e5)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILXYENILXY&bg_color=150,#5e7e9b,#ffe0e5)
 </div>
