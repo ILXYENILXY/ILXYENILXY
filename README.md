@@ -21,7 +21,4 @@ Techs that I've used at least once
 <br>
 <br>
 
-
-<div align=center>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILXYENILXY&bg_color=150,#5e7e9b,#ffe0e5)
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILXYENILXY&bg_color=30,#5e7e9b,#ffe0e5)
