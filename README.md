@@ -10,9 +10,12 @@
   Techs that I've used at least once
 </div>
 
-# 🔧 Tech Stack
+<div align=center>
+  # 🔧 Tech Stack
 
-![python](https://img.shields.io/badge/Python-005A9C.svg?&style=for-the-badge&logo=Python&logoColor=fff)![C](https://img.shields.io/badge/C-000080.svg?&style=for-the-badge&logo=Python&logoColor=fff)
+  ![python](https://img.shields.io/badge/Python-005A9C.svg?&style=for-the-badge&logo=Python&logoColor=fff)![C](https://img.shields.io/badge/C-000080.svg?&style=for-the-badge&logo=Python&logoColor=fff)
+
+</div>
 
 # 📚 Frameworks, Libraries
 
