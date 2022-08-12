@@ -6,6 +6,8 @@
 
 
 ---
+Techs that I've used at least once
+
 
 ## 🔧 Tech Stack
 
