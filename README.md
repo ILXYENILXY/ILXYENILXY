@@ -7,7 +7,7 @@
 
 ---
 <div align=center>
-  // Techs that I've used at least once
+  Techs that I've used at least once
 </div>
 
 ## 🔧 Tech Stack
