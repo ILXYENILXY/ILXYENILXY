@@ -6,8 +6,9 @@
 
 
 ---
-Techs that I've used at least once
-
+<div align=center>
+  // Techs that I've used at least once
+</div>
 
 ## 🔧 Tech Stack
 
