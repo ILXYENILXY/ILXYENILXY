@@ -18,4 +18,4 @@ Techs that I've used at least once
 </div>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILXYENILXY)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILXYENILXY)](https://github.com/anuraghazra/github-readme-stats&theme=gradient)
