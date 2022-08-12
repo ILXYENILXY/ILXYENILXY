@@ -11,12 +11,8 @@
 </div>
 
 
-<div align=center>
-  <div style="font-size:2.0em;">
+<div align=center,style="font-size:2.0em;">
   🔧 Tech Stack
-
-
-  </div?
 </div>
 
 
